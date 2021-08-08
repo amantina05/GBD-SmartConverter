@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartConverter</string>
+    <string name="title">Temperature Converter</string>
+
+<!--    <integer name="tempC">Temperature in Celsius</integer>-->
+<!--    <integer name="tempF">Temperature in Fahrenheit</integer>-->
+
+    <string name="convert">Convert</string>
+    <string name="reset">Reset</string>
+</resources>
